@@ -1,0 +1,13 @@
+{
+	"name": "adonis-messaging-api-telegram",
+	"version": "0.0.1",
+	"author": "Mikey Stengel",
+	"license": "MIT",
+	"description": "A provider to initialize the messaging-api-telegram package with your telegram token.",
+	"homepage": "https://github.com/ReasonableDeveloper/adonis-messaging-api-telegram",
+	"keywords": [
+		"adonis-framework",
+		"telegram-messaging-api",
+		"telegram"
+	]
+}
