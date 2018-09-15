@@ -2,7 +2,7 @@
 Inside `start/app.js`, register the provider.
 ```js
 const providers = [
-  'adonis-stripe/providers/TelegramProvider'
+  'adonis-messaging-api-telegram/providers/TelegramProvider'
 ]
 ```
 
