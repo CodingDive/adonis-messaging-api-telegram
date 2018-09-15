@@ -1,8 +1,8 @@
 ## Registering the provider
-Inside `start/app.js`
+Inside `start/app.js`, register the provider.
 ```js
 const providers = [
-	'adonis-stripe/providers/TelegramProvider'
+  'adonis-stripe/providers/TelegramProvider'
 ]
 ```
 
