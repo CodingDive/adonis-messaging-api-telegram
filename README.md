@@ -12,6 +12,12 @@ const providers = [
 ## Usage
 ```js
 const Telegram = use('Telegram');
+
+Telegram.sendMessage('<userID>', `<message>`,
+  {
+    disable_web_page_preview: true
+  }
+);
 ```
 
 ## Env
