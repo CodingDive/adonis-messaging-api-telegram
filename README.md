@@ -1,3 +1,6 @@
+## Installation
+`npm i adonis-messaging-api-telegram`
+
 ## Registering the provider
 Inside `start/app.js`, register the provider.
 ```js
